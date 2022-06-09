@@ -1118,7 +1118,7 @@
          id="tspan5534"
          x="96.35067"
          y="84.400604"
-         style="stroke-width:0.26458332" /></text>
+         style="stroke-width:0.26458332"/></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1129,8 +1129,8 @@
          id="tspan5542"
          x="110.38231"
          y="89.930832"
-         style="stroke-width:0.26458332" /></text>
-    <text
+         style="stroke-width:0.26458332"/></text>
+    <text onclick= alert("2")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="20.205576"
@@ -1140,8 +1140,8 @@
          id="tspan5554"
          x="20.205576"
          y="114.40146"
-         style="stroke-width:0.26458332">2</tspan></text>
-    <text
+         style="stroke-width:0.26458332"/></text>
+    <text onclick= alert("3")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="28.063301"
@@ -1152,7 +1152,7 @@
          x="28.063301"
          y="107.29209"
          style="stroke-width:0.26458332">3</tspan></text>
-    <text
+    <text onclick= alert("4")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="50.513939"
@@ -1174,7 +1174,7 @@
          x="49.578499"
          y="84.318176"
          style="stroke-width:0.26458332" /></text>
-    <text
+    <text onclick= alert("5")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="102.52459"
@@ -1185,7 +1185,7 @@
          x="102.52459"
          y="100.74398"
          style="stroke-width:0.26458332">5</tspan></text>
-    <text
+    <text onclick= alert("6")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="92.421806"
@@ -1196,7 +1196,7 @@
          x="92.421806"
          y="126.18804"
          style="stroke-width:0.26458332">6</tspan></text>
-    <text
+    <text onclick= alert("7")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="87.370407"
@@ -1207,7 +1207,7 @@
          x="87.370407"
          y="123.94298"
          style="stroke-width:0.26458332">7</tspan></text>
-    <text
+    <text onclick= alert("8")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="70.345337"
@@ -1218,7 +1218,7 @@
          x="70.345337"
          y="125.06551"
          style="stroke-width:0.26458332">8</tspan></text>
-    <text
+    <text onclick= alert("9")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="40.97242"
@@ -1229,7 +1229,7 @@
          x="40.97242"
          y="120.01411"
          style="stroke-width:0.26458332">9</tspan></text>
-    <text
+    <text onclick= alert("10")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="35.35976"
@@ -1240,7 +1240,7 @@
          x="35.35976"
          y="118.14323"
          style="stroke-width:0.26458332">10</tspan></text>
-    <text
+    <text onclick= alert("11")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="31.805071"
@@ -1251,7 +1251,7 @@
          x="31.805071"
          y="113.27893"
          style="stroke-width:0.26458332">11</tspan></text>
-    <text
+    <text onclick= alert("13")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="9.5415173"
@@ -1262,7 +1262,7 @@
          x="9.5415173"
          y="123.94299"
          style="stroke-width:0.26458332">13</tspan></text>
-    <text
+    <text onclick= alert("15")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="-0.56126064"
@@ -1273,7 +1273,7 @@
          x="-0.56126064"
          y="142.65184"
          style="stroke-width:0.26458332">15</tspan></text>
-    <text
+    <text onclick= alert("16")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="16.837986"
@@ -1284,7 +1284,7 @@
          x="16.837986"
          y="127.31058"
          style="stroke-width:0.26458332">16</tspan></text>
-    <text
+    <text onclick= alert("17")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="30.680677"
@@ -1295,7 +1295,7 @@
          x="30.680677"
          y="129.51761"
          style="stroke-width:0.26458332">17</tspan></text>
-    <text
+    <text onclick= alert("18")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="41.53368"
@@ -1306,7 +1306,7 @@
          x="41.53368"
          y="132.36197"
          style="stroke-width:0.26458332">18</tspan></text>
-    <text
+    <text onclick= alert("19")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="51.82357"
@@ -1317,7 +1317,7 @@
          x="51.82357"
          y="135.72955"
          style="stroke-width:0.26458332">19</tspan></text>
-    <text
+    <text onclick= alert("20")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="69.784065"
@@ -1328,7 +1328,7 @@
          x="69.784065"
          y="136.8521"
          style="stroke-width:0.26458332">20</tspan></text>
-    <text
+    <text onclick= alert("21")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="87.183327"
@@ -1339,7 +1339,7 @@
          x="87.183327"
          y="133.4845"
          style="stroke-width:0.26458332">21</tspan></text>
-    <text
+    <text onclick= alert("22")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="19.270123"
@@ -1350,7 +1350,7 @@
          x="19.270123"
          y="141.52931"
          style="stroke-width:0.26458332">22</tspan></text>
-    <text
+    <text onclick= alert("23")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="14.959539"
@@ -1361,7 +1361,7 @@
          x="14.959539"
          y="153.20284"
          style="stroke-width:0.26458332">23</tspan></text>
-    <text
+    <text onclick= alert("24")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="70.861053"
@@ -1372,7 +1372,7 @@
          x="70.861053"
          y="151.04135"
          style="stroke-width:0.26458332">24</tspan></text>
-    <text
+    <text onclick= alert("25")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="80.035995"
@@ -1383,7 +1383,7 @@
          x="80.035995"
          y="154.14494"
          style="stroke-width:0.26458332">25</tspan></text>
-    <text
+    <text onclick= alert("26")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="93.544334"
@@ -1394,7 +1394,7 @@
          x="93.544334"
          y="161.54779"
          style="stroke-width:0.26458332">26</tspan></text>
-    <text
+    <text onclick= alert("27")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="98.782814"
@@ -1405,7 +1405,7 @@
          x="98.782814"
          y="168.0959"
          style="stroke-width:0.26458332">27</tspan></text>
-    <text
+    <text onclick= alert("28")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="30.682541"
@@ -1416,7 +1416,7 @@
          x="30.682541"
          y="169.40553"
          style="stroke-width:0.26458332">28</tspan></text>
-    <text
+    <text onclick= alert("12")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="2.0579753"
@@ -1427,7 +1427,7 @@
          x="2.0579753"
          y="171.4635"
          style="stroke-width:0.26458332">12</tspan></text>
-    <text
+    <text onclick= alert("0")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="0.74835539"
@@ -1449,7 +1449,7 @@
          x="0.93544459"
          y="121.32375"
          style="stroke-width:0.26458332">1</tspan></text>
-    <text
+    <text onclick= alert("14")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="13.283296"
@@ -1460,7 +1460,7 @@
          x="13.283296"
          y="170.34097"
          style="stroke-width:0.26458332">14</tspan></text>
-    <text
+    <text onclick= alert("5")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="44.527103"
@@ -1471,7 +1471,7 @@
          x="44.527103"
          y="124.69134"
          style="stroke-width:0.26458332">5</tspan></text>
-    <text
+    <text onclick= alert("3")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="32.740517"
@@ -1482,7 +1482,7 @@
          x="32.740517"
          y="121.885"
          style="stroke-width:0.26458332">3</tspan></text>
-    <text
+    <text onclick= alert("5")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="20.579754"
@@ -1493,7 +1493,7 @@
          x="20.579754"
          y="133.85869"
          style="stroke-width:0.26458332">5</tspan></text>
-    <text
+    <text onclick= alert("6")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="6.7351937"
@@ -1504,7 +1504,7 @@
          x="6.7351937"
          y="111.96931"
          style="stroke-width:0.26458332">6</tspan></text>
-    <text
+    <text onclick= alert("7")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="78.57724"
@@ -1515,7 +1515,7 @@
          x="78.57724"
          y="117.39488"
          style="stroke-width:0.26458332">7</tspan></text>
-    <text
+    <text onclick= alert("8")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="101.58915"
@@ -1526,7 +1526,7 @@
          x="101.58915"
          y="141.52931"
          style="stroke-width:0.26458332">8</tspan></text>
-    <text
+    <text onclick= alert("9")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="72.403313"
@@ -1537,7 +1537,7 @@
          x="72.403313"
          y="109.35007"
          style="stroke-width:0.26458332">9</tspan></text>
-    <text
+    <text onclick= alert("1")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="37.04356"
@@ -1548,7 +1548,7 @@
          x="37.04356"
          y="114.02728"
          style="stroke-width:0.26458332">1</tspan></text>
-    <text
+    <text onclick= alert("2")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="32.179253"
@@ -1559,7 +1559,7 @@
          x="32.179253"
          y="109.16297"
          style="stroke-width:0.26458332">2</tspan></text>
-    <text
+    <text onclick= alert("3")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="5.7997475"
@@ -1570,7 +1570,7 @@
          x="5.7997475"
          y="120.76247"
          style="stroke-width:0.26458332">3</tspan></text>
-    <text
+    <text onclick= alert("4")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="15.902537"
@@ -1581,7 +1581,7 @@
          x="15.902537"
          y="116.27234"
          style="stroke-width:0.26458332">4</tspan></text>
-    <text
+    <text onclick= alert("5")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="23.573172"
@@ -1592,7 +1592,7 @@
          x="23.573172"
          y="167.90881"
          style="stroke-width:0.26458332">5</tspan></text>
-    <text
+    <text onclick= alert("4")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="9.9157"
@@ -1603,7 +1603,7 @@
          x="9.9157"
          y="169.03134"
          style="stroke-width:0.26458332">4</tspan></text>
-    <text
+    <text onclick= alert("6")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="40.785332"
@@ -1614,7 +1614,7 @@
          x="40.785332"
          y="95.692581"
          style="stroke-width:0.26458332">6</tspan></text>
-    <text
+    <text onclick= alert("7")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="25.256971"
@@ -1625,7 +1625,7 @@
          x="25.256971"
          y="158.5544"
          style="stroke-width:0.26458332">7</tspan></text>
-    <text
+    <text onclick= alert("8")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="55.191154"
@@ -1636,7 +1636,7 @@
          x="55.191154"
          y="159.11565"
          style="stroke-width:0.26458332">8</tspan></text>
-    <text
+    <text onclick= alert("6")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="95.976486"
@@ -1647,7 +1647,7 @@
          x="95.976486"
          y="111.78222"
          style="stroke-width:0.26458332">6</tspan></text>
-    <text
+    <text onclick= alert("5")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="73.151672"
@@ -1658,7 +1658,7 @@
          x="73.151672"
          y="143.02603"
          style="stroke-width:0.26458332">5</tspan></text>
-    <text
+    <text onclick= alert("4")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="83.441544"
@@ -1669,7 +1669,7 @@
          x="83.441544"
          y="141.52931"
          style="stroke-width:0.26458332">4</tspan></text>
-    <text
+    <text onclick= alert("2")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="23.94735"
@@ -1680,7 +1680,7 @@
          x="23.94735"
          y="108.7888"
          style="stroke-width:0.26458332">2</tspan></text>
-    <text
+    <text onclick= alert("3")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="37.979"
@@ -1691,7 +1691,7 @@
          x="37.979"
          y="129.18147"
          style="stroke-width:0.26458332">3</tspan></text>
-    <text
+    <text onclick= alert("4")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="48.830143"
@@ -1702,7 +1702,7 @@
          x="48.830143"
          y="131.98779"
          style="stroke-width:0.26458332">4</tspan></text>
-    <text
+    <text onclick= alert("5")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="10.102789"
@@ -1713,7 +1713,7 @@
          x="10.102789"
          y="138.91006"
          style="stroke-width:0.26458332">5</tspan></text>
-    <text
+    <text onclick= alert("6")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="88.680031"
@@ -1724,7 +1724,7 @@
          x="88.680031"
          y="156.12222"
          style="stroke-width:0.26458332">6</tspan></text>
-    <text
+    <text onclick= alert("3")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="98.408638"
@@ -1735,7 +1735,7 @@
          x="98.408638"
          y="162.67033"
          style="stroke-width:0.26458332">3</tspan></text>
-    <text
+    <text onclick= alert("3")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="90.738007"
@@ -1746,7 +1746,7 @@
          x="90.738007"
          y="122.63336"
          style="stroke-width:0.26458332">3</tspan></text>
-    <text
+    <text onclick= alert("4")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="71.467865"
@@ -1757,7 +1757,7 @@
          x="71.467865"
          y="130.304"
          style="stroke-width:0.26458332">4</tspan></text>
-    <text
+    <text onclick= alert("6")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="62.300526"
@@ -1768,7 +1768,7 @@
          x="62.300526"
          y="136.10374"
          style="stroke-width:0.26458332">6</tspan></text>
-    <text
+    <text onclick= alert("1")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="15.341272"
@@ -1779,7 +1779,7 @@
          x="15.341272"
          y="123.19463"
          style="stroke-width:0.26458332">1</tspan></text>
-    <text
+    <text onclick= alert("2")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="25.818235"
@@ -1790,7 +1790,7 @@
          x="25.818235"
          y="126.18804"
          style="stroke-width:0.26458332">2</tspan></text>
-    <text
+    <text onclick= alert("6")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="79.886864"
@@ -1801,7 +1801,7 @@
          x="79.886864"
          y="127.31058"
          style="stroke-width:0.26458332">6</tspan></text>
-    <text
+    <text onclick= alert("1")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="39.849888"
@@ -1812,7 +1812,7 @@
          x="39.849888"
          y="116.64652"
          style="stroke-width:0.26458332">1</tspan></text>
-    <text
+    <text onclick= alert("8")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="37.604824"
@@ -1823,7 +1823,7 @@
          x="37.604824"
          y="143.77438"
          style="stroke-width:0.26458332">8</tspan></text>
-    <text
+    <text onclick= alert("4")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="17.586334"
@@ -1834,7 +1834,7 @@
          x="17.586334"
          y="145.084"
          style="stroke-width:0.26458332">4</tspan></text>
-    <text
+    <text onclick= alert("2")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="77.454712"
@@ -1845,7 +1845,7 @@
          x="77.454712"
          y="150.50957"
          style="stroke-width:0.26458332">2</tspan></text>
-    <text
+    <text onclick= alert("5")
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="55.378246"
